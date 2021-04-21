@@ -1,3 +1,9 @@
+Projeto do Curso Full-stack Labenu onde a ideia era replicar as funcionalidades basicas do tinder.
+    
+    http://astromatch-gabriel.surge.sh/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
